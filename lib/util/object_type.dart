@@ -1,4 +1,4 @@
-enum MyObject {
+enum ObjectType {
   rock,
   paper,
   scissor,

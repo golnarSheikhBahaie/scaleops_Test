@@ -7,7 +7,7 @@ class MainGameScreen extends StatefulWidget {
   State<MainGameScreen> createState() => _MainGameScreenState();
 }
 
-class _MainGameScreenState extends State<MainGameScreen> {
+class _MainGameScreenState extends State<MainGameScreen> with TickerProviderStateMixin {
   @override
   Widget build(BuildContext context) {
     return const Placeholder();
