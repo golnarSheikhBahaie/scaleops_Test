@@ -49,7 +49,7 @@ class _MainGameScreenState extends State<MainGameScreen>
     return Scaffold(
 
         appBar: AppBar(
-          title: const Text('ScaleOps Test Task'),
+          title: const Text('Random Objects Movement In Flutter'),
         ),
         body: Padding(
           padding: const EdgeInsets.symmetric(horizontal: 18.0, vertical: 18.0),
